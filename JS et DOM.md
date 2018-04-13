@@ -17,6 +17,7 @@ Les script sont placé ou chargé en bas du fichier HTML avant la balise </html>
 
 ## let vs var :
 let: local, dans la fonction, ou le bloc
+La variable ce propage dans les sous objets (fonctions, ..)
 
 var: global
 
