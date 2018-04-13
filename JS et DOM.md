@@ -32,9 +32,9 @@ C'est un "arbre" représentant l'arboressance d'un document **xml**, comme le **
 Le DOM peut être modifié par javascript
 
 ## Avant ...
-document.getElementById(id)
-document.getElementsByTagName(name)
-document.getElementsByClassName(name)
+	document.getElementById(id)
+	document.getElementsByTagName(name)
+	document.getElementsByClassName(name)
 
 ## Maintenant:
 
