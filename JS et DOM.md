@@ -1,4 +1,4 @@
-#JavaScript
+# JavaScript
 
 c'est un langage de script interprété par le navigateur (ou le serveur pour node.js)
 ECMAScript 6 (7 en préparation)
@@ -15,7 +15,7 @@ Les script sont placé ou chargé en bas du fichier HTML avant la balise </html>
 	</script>
 
 
-##let vs var :
+## let vs var :
 let: local, dans la fonction, ou le bloc
 
 var: global
@@ -53,14 +53,14 @@ recupère le **span** directement dans une **div**
 	document.querySelector("nav>button").onclick = menu;
 ajoute la fonction menu au click
 
-#jQuery
+# jQuery
 C'est une **bibliothèque javascript**, qui permet de simplifier le **DOM**  
 on l'appel parr la commande **$** ou **jQuery**
 
 	jQuery()
 	jQuery("li").addClass("starred");
 
-##jQery vs JavaScript
+## jQery vs JavaScript
 
 	document.querySelectorAll("a").foreach( function(){a.onmouseover=function()} );
 	jQuery("a").on("mouseover", function(){} );
